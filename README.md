@@ -39,6 +39,10 @@
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=symfony" width="45" height="45" alt="Symfony" />
+      <br>Symfony
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">

@@ -73,6 +73,10 @@
       <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="55" height="55" />
       <br>Rust
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="55" height="55" />
+      <br>Rust
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">

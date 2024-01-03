@@ -80,8 +80,8 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="55" height="45" alt="MUI v5" />
-      <br>MaterialUI
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="45" alt="JavaScript" />
+      <br>JavaScript
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="45" alt="Tailwind" />

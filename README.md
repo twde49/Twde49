@@ -137,6 +137,10 @@
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
       <br>C++
     </td>
+    <td align="center" width="90" border-radius="25px">
+      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linode/linode-icon.svg" alt="lindode" width="55" height="55" />
+      <br>Linode
+    </td>
   </tr>
 </table>
 </p>

@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 <div align='center' width='100%'>
   <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttst49&hide=twig,html,css&layout=donut&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <a width='50%' href="https://github.com/ttst49?tab=achievements">
@@ -152,3 +152,7 @@
 <br>
 </div>
 
+
+## Let's connect!
+-Email me at : <code>Thibautstachnick@gmail.com</code>
+-Go see my portfolio <a href="portfolio.thibautstachnick.Com">here</a>

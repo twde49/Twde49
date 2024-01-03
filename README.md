@@ -156,6 +156,6 @@
 ## Let's connect!
 ### -Email me at : <code>Thibautstachnick@gmail.com</code>
 <br>
-<hr>
-### -Go see my portfolio <a href="portfolio.thibautstachnick.Com">here</a>
+
+### -Go see my portfolio <a href="https://portfolio.thibautstachnick.Com">here</a>
 <hr>

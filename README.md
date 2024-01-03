@@ -154,5 +154,8 @@
 
 
 ## Let's connect!
--Email me at : <code>Thibautstachnick@gmail.com</code>
--Go see my portfolio <a href="portfolio.thibautstachnick.Com">here</a>
+### -Email me at : <code>Thibautstachnick@gmail.com</code>
+<br>
+<hr>
+### -Go see my portfolio <a href="portfolio.thibautstachnick.Com">here</a>
+<hr>

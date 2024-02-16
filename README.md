@@ -105,8 +105,8 @@
       <br>Bootstrap
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=babel" width="55" height="45" alt="babel" />
-      <br>Babel
+      <img src="https://skillicons.dev/icons?i=docker" width="55" height="45" alt="docker" />
+      <br>Docker
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" width="55" height="45" alt="Three.js" />
